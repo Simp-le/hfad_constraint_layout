@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Constraint Layout</string>
+    <string name="translate">Translate</string>
+    <string name="reverse">Reverse</string>
+    <string name="copy">Copy</string>
+    <string name="history_1">History 1</string>
+    <string name="history_2">History 2</string>
+    <string name="history_3">History 3</string>
+    <string name="history_4">History 4</string>
+    <string name="history_5">History 5</string>
+    <string name="history_6">History 6</string>
+</resources>
